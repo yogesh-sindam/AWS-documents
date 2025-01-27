@@ -6,8 +6,8 @@ Resources:
     Type: 'AWS::S3::Bucket'
     Properties:
        BucketName: for-s3-yogitestingewithversioning
-
-
+#
+#########################################
 #example2(with versioning)
 Resources:
   S3Bucket:

@@ -16,3 +16,8 @@ Resources:
        BucketName: for-s3-yogitestingewithversioning
        VersioningConfiguration:
         Status: Enabled
+#when you a resouce using a template, if some user had a change with that resource. as a devops engineer you need to detect those changes
+#Goto stack-> stack actions-> Detect drift
+#if someone might had a changed anything you can  see DRIFT status = Drifted
+#Drift-> select a resouce -> view Drift details.
+ 

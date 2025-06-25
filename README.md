@@ -5,3 +5,7 @@ scp -i /home/mobaxterm/testing/main.tf ubuntu@ip_instance:/home/destination
 ```
 
 lets learn aws
+#topics
+aws vpc
+vpc peering
+vpn

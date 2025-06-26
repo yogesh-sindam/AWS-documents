@@ -9,3 +9,4 @@ lets learn aws
 aws vpc
 vpc peering
 vpn
+gateways.

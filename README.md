@@ -7,7 +7,7 @@ scp -i /home/mobaxterm/testing/main.tf ubuntu@ip_instance:/home/destination
 lets learn aws
 #topics
 aws vpc
-vpc peering
+- [ ] vpc peering
 vpn
 gateways.
 
@@ -18,8 +18,8 @@ gateways.
 # Cloud DevOps Question 
 ```
 1. What are your daily responsibilities as a DevOps engineer?
-2. Have you worked with monitoring and logging tools like Prometheus, Grafana, or ELK Stack?
-3. Can you describe the CI/CD workflow in your project?
+- [] Have you worked with monitoring and logging tools like Prometheus, Grafana, or ELK Stack?
+- [] Can you describe the CI/CD workflow in your project?
 4. How do you handle the continuous delivery (CD) aspect in your projects?
 5. What methods do you use to check for code vulnerabilities?
 6. What AWS services are you proficient in
@@ -45,3 +45,4 @@ gateways.
 22. How do you communicate with a Jenkins server and a Kubernetes cluster?
 23. Do you only update Docker images in Kubernetes, or do you also update replicas, storage levels, and CPU allocation?
 ```
+

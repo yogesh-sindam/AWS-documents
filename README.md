@@ -21,7 +21,7 @@ gateways.
 2. Have you worked with monitoring and logging tools like Prometheus, Grafana, or ELK Stack?
 3. Can you describe the CI/CD workflow in your project?
 4. How do you handle the continuous delivery (CD) aspect in your projects?
-5. What methods do you use to check for code vulnerabilities?
+5. What methods do you use to check for code vulnerabilities
 6. What AWS services are you proficient in
 7. How would you access data in an S3 bucket from Account A when your application is running on an EC2 instance in Account B?
 8. How do containerisation technologies like Docker and Kubernetes simplify application deployment and management?

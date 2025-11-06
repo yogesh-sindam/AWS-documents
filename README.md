@@ -18,8 +18,8 @@ gateways.
 # Cloud DevOps Question 
 ```
 1. What are your daily responsibilities as a DevOps engineer?
-- [] Have you worked with monitoring and logging tools like Prometheus, Grafana, or ELK Stack?
-- [] Can you describe the CI/CD workflow in your project?
+2. Have you worked with monitoring and logging tools like Prometheus, Grafana, or ELK Stack?
+3. Can you describe the CI/CD workflow in your project?
 4. How do you handle the continuous delivery (CD) aspect in your projects?
 5. What methods do you use to check for code vulnerabilities?
 6. What AWS services are you proficient in

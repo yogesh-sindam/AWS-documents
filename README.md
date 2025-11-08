@@ -34,7 +34,7 @@ gateways.
 13. Can you share an example of a complex automation script you've written?
 14. How do you approach troubleshooting and debugging automation scripts?
 
-15. Which services can be integrated with a CDN (Content Delivery Network)?
+15. Which services can be integrated with a CDN (Content Delivery Network)? --> S3, loadBalancer, VPC endpoint, etc.
 16. How do you dynamically retrieve VPC details from AWS to create an EC2 instance using IaC, can you write the code?
 17. How do you manage unmanaged AWS resources in Terraform?
 16. How do you pass arguments to a VPC while using the `terraform import` command?

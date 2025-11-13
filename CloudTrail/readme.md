@@ -11,8 +11,8 @@ Data events: Record data plane actions, such as reading or writing an S3 object.
 Insights events: Analyze management events to identify and alert on unusual API activity, which can incur additional charges. 
 ## Key features
 `Auditing and compliance`: Helps monitor and audit user activity to ensure compliance with rules and regulations.
-Security analysis: Assists in investigating security incidents by tracking changes and identifying who made them.
-Troubleshooting: Provides a detailed history of API calls for operational troubleshooting.
-Resource change tracking: Tracks the history of an AWS resource from creation to deletion.
-Multi-Region support: You can create a "multi-Region trail" to capture activity across all enabled regions in your account.
-Integration: Can be integrated with other services like CloudWatch and EventBridge for alerts and notifications. 
+`Security analysis`: Assists in investigating security incidents by tracking changes and identifying who made them.
+`Troubleshooting`: Provides a detailed history of API calls for operational troubleshooting.
+`Resource change tracking`: Tracks the history of an AWS resource from creation to deletion.
+`Multi-Region support`: You can create a "multi-Region trail" to capture activity across all enabled regions in your account.
+`Integration`: Can be integrated with other services like CloudWatch and EventBridge for alerts and notifications. 

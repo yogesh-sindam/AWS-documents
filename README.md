@@ -46,3 +46,5 @@ gateways.
 23. Do you only update Docker images in Kubernetes, or do you also update replicas, storage levels, and CPU allocation?.
 ```
 
+
+mm

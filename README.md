@@ -45,6 +45,8 @@ gateways.
 22. How do you communicate with a Jenkins server and a Kubernetes cluster?
 23. Do you only update Docker images in Kubernetes, or do you also update replicas, storage levels, and CPU allocation?.
 ```
-
+How nat gatways vs internet gateways
+design the vpc architecture for nat gateways and iunternet gateways
+upload design graph
 
 mm

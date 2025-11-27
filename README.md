@@ -9,7 +9,7 @@ lets learn aws
 aws vpc
 - [ ] vpc peering
 vpn
-gateways.
+gateways
 
 ## How can you give a s3 object permission to an external user?
 `1.using a console you can find a presigned url on the object action drop down.`
